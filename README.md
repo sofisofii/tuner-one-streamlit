@@ -1,4 +1,4 @@
-# Финансовая модель на основе данных приложения Tuner One – Streamlit
+# Финансовая модель на основе данных приложения – Streamlit
 
 Ссылочка на сам проект : 
 https://sofisofii-tuner-one-streamlit-fmodel-3lzyqf.streamlitapp.com/
