@@ -121,6 +121,9 @@ with modelTraining:
 
     st.text('чистая прибыль')
     st.write(totalsum_rev - totalsum_taxes + admob_revenue - admob_revenue_taxes)
+    
+    st.text('чистая прибыль за вычетом рекламных вложений')
+    st.write(totalsum_rev - totalsum_taxes + admob_revenue - admob_revenue_taxes - budget)
 
 
     st.text('ROAS')
